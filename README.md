@@ -25,7 +25,8 @@ Some of the key mods are
 
 
 # Modpack variants
-For full details, check out the linked, you can right click to save the download or go to [releases](https://github.com/amberitsu/FoxdenSMP/releases) for
+For full details, check out the links below
+*You can right click to save the variant or go to [releases](https://github.com/amberitsu/FoxdenSMP/releases)* for the latest links
 - [Full](docs/modpack-full.md), recommended version, includes several QoL mods, optimization as well as voice chat
   - Download the [Full](modpacks/foxdensmp-full.mrpack) variant
 - [Optimized](docs/modpack-optimized.md), includes some optimization mods to improve performance in addition to the minimal variant
